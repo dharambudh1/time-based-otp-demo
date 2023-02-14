@@ -6,7 +6,7 @@
 - Generates Secret Key, which we can type in our 2FA/MFA authenticator application.
 
 ## Installation Steps:
-- Kindly install the Google or Microsoft authenticator app or any other 2-factor / multi-factor authenticator app from the App Store or Play Store.
+- Kindly install the Google or 2FAS or OneAuth authenticator app or any other 2-factor / multi-factor authenticator app from the App Store or Play Store.
 - After the app installation of the authenticator, either scan the QR code from the screen or copy the Secret Key and paste it into the authenticator app.
 - Afterwards, verify the Time-based One Time Password, copy the code from the installed authenticator app and paste it here into this app. 
 
